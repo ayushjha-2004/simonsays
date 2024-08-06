@@ -1,1 +1,1 @@
-# simonsays
+ The game consists of a series of colored buttons that light up  in a specific sequence. The players task is to observe and remember the sequence and then reproduce it by pressing the buttons in the same order.
